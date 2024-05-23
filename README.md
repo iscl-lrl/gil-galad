@@ -33,7 +33,7 @@ sample_id, start, end, type, male, female, author, year, month, day
 - Valentin Pickard [@pival-student](https://github.com/pival-student)
 - Anna-Katharina Dick [@AnnaKatharinaD](https://github.com/AnnaKatharinaD)
 - Matthias Drews [@madrews](https://github.com/madrews)
-- Victoria Pierz
+- Victoria Pierz [@Victoria142](https://github.com/Victoria142)
 
 ## Usage
 The corpus can be used for a variety of purposes, including but not limited to:
